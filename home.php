@@ -4,6 +4,11 @@
 		header('Location:index.php');
 	}
 ?>
+
+
+<!-- hola este es el ejemplo de lo que se cambia en GIT -->
+
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
